@@ -1,3 +1,2 @@
 [webserver]
 prodserver ansible_ssh_host=10.0.1.189 ansible_ssh_user=ansibleadmin
-prodserver ansible_host=10.0.1.189  ansible_ssh_user=devopsadmin ansible_ssh_private_key_file=/home/devopsadmin/.ssh
