@@ -1,4 +1,4 @@
-- name : prodserver
+- name : Configure Docker on EC2 Instances
   hosts : prodserver
   become: true
   connection : ssh
