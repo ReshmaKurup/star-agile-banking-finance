@@ -1,0 +1,2 @@
+[webserver]
+prodserver ansible_ssh_host=10.0.1.189 ansible_ssh_user=ansibleadmin
